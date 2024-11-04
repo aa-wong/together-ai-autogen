@@ -1,0 +1,12 @@
+[
+    {
+        "model": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+        "api_key": "<TOGETHER AI API KEY>",
+        "base_url": "https://api.together.xyz/v1",
+        "api_type": "together"
+    },
+    {
+        "model": "gpt-4o-mini",
+        "api_key": "<OPENAI API KEY>"
+    }
+]
